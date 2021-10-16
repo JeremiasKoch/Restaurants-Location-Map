@@ -1,3 +1,3 @@
-const mapsKey = "AIzaSyCozLs0bE5Qk01qZypGs1Qx5pakyOCScWc";
+const mapsKey = "";
 
 export default mapsKey;
