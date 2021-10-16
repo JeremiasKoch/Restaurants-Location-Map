@@ -1,6 +1,6 @@
 ## Restaurants Location Map
 
-**Using proyect**
+**Using project**
 
 The restaurant api only shows restaurants in North San Francisco !!! 
 but I still invite you to find the restaurant lost in the ocean: D
